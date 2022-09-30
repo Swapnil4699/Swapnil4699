@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **swapnilmishra4699@gmail.com**
 
-- ⚡ Fun fact **I make machine learning models and bad jokes.**
+- ⚡ Fun fact **I make machine learning and deeplearning models and bad jokes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
