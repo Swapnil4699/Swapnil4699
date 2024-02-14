@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Swapnil Mishra</h1>
-<h3 align="center">A passionate frontend developer| Machine Learning and Deep Learning student from India</h3>
+<h3 align="center">A passionate  developer| Machine Learning and Deep Learning student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil4699&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil4699" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnil4699" alt="swapnil4699" /></a> </p>
 
-- 🔭 I’m currently working on **Driver Drowsiness Detector using Deep Learning**
+- 🔭 I’m currently working on **Full Stack project using Django and HTML, CSS & JavaScript**
 
-- 🌱 I’m currently learning **Data Science, full stack development using MERN stack**
+- 🌱 I’m currently learning **Data Science, full stack development **
 
-- 💬 Ask me about **python ,Data Science, HTML,CSS,Java**
+- 💬 Ask me about **Python ,Data Science, HTML/CSS, JavaScript, Django **
 
 - 📫 How to reach me **swapnilmishra4699@gmail.com**
 
-- ⚡ Fun fact **I make machine  models and bad jokes aswell
+- ⚡ Fun fact **I make development project and bad jokes!!
 - .**
 
 <h3 align="left">Connect with me:</h3>
