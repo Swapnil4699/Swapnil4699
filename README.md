@@ -9,12 +9,11 @@
 
 <!-- - 🌱 I’m currently learning **Data Science, full stack development ** -->
 
-- 💬 Ask me about **Python ,Data Science, AI, ShellScripting, Coud **
+- 💬 Ask me about **Python ,Data Science, AI, ShellScripting, Coud Platforms **
 
 - 📫 How to reach me **mishraswapnil0403@gmail.com**
 
-- ⚡ Fun fact **🤖 I Teach computers what to do and then wonder why they listened.!!
-- .**
+- ⚡ Fun fact **🤖 I Teach computers what to do and then wonder why they listened.!! .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
